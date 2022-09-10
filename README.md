@@ -40,7 +40,7 @@
 <br/>
 <br/>
 <div style="display: flex">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masheransari&show_icons=true&locale=en&layout=compact" alt="masheransari" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masheransari&show_icons=true&locale=en&layout=compact" alt="masheransari" /></p>-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masheransari&show_icons=true&locale=en" alt="masheransari" /></p>
 </div>
